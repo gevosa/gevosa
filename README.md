@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 #### I'm an Economics student at the University of Florida originally from Moscow, Russia. Beginner Python and R programmer with focus on statistical analysis.
 
