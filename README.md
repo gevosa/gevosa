@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm an Economics student at the University of Florida originally from Moscow, Russia. Beginner Python and R programmer with focus on statistical analysis.
+#### I'm an Economics student at the University of Florida originally from Moscow, Russia. Python and R programmer with focus on statistical analysis.
 
 - ⚙️ I'm learning: `Python` and `R`
 - 🌱 Learning all about **Data Science**
