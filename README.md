@@ -5,5 +5,5 @@
 
 - ⚙️ I'm learning: `Python`, `R` and `JavaScript`
 - 🌱 Learning all about **Data Science** and **Mobile Development**
-- 📫 Reach me: [linkedin.com/in/gevorgyans/](https://www.linkedin.com/in/gevorgyans/)
+- 📫 Reach out to me: [linkedin.com/in/gevorgyans/](https://www.linkedin.com/in/gevorgyans/)
 - ⚡️ Fun fact: Big music lover, amateur DJ
