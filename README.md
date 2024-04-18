@@ -5,5 +5,5 @@
 
 - ⚙️ I'm learning: `Python`
 - 🌱 Learning all about **Data Engineering**, **Data Science** & **BI**
-- 📫 Reach out to me: [linkedin.com/in/gevorgyans/](https://www.linkedin.com/in/gevosa/)
+- 📫 Reach out to me: [linkedin.com/in/gevosa/](https://www.linkedin.com/in/gevosa/)
 - ⚡️ Fun fact: Big music lover, amateur DJ
