@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm an Economics student at the University of Freiburg. Python developer with focus on statistical analysis.
+#### I'm a Business Intelligence developer and Economics student at the University of Freiburg.
 
 - 🌱 Learning all about **Data Engineering**, **Data Science** & **BI**
 - 📫 Reach out to me: [linkedin.com/in/gevosa/](https://www.linkedin.com/in/gevosa/)
